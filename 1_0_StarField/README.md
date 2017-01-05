@@ -1,3 +1,3 @@
-
-
-1. Create 2 javascript files, star.js and starfield.js
+TODO:
+Add in tracer lines...
+Add in steering... While still rendering in 2d.
